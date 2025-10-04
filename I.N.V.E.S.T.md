@@ -1,0 +1,7 @@
+INVEST (Agile foundation)
+- Independent (of all others)    
+- Negotiable (not a specific contract for features)    
+- Valuable (or vertical)    
+- Estimable (to a good approximation)    
+- Small (so as to fit within an iteration)    
+- Testable (in principle, even if there isn’t a test for it yet)    
